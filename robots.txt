@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tanjongrhuroadadmin.showflat.com.sg/sitemap.xml
